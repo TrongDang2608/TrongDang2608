@@ -18,7 +18,7 @@
 
 Final-year **Computer Science** student at Ho Chi Minh City University of Transport (UTH) with a strong passion for **Backend Development** and **Spring Boot**. I love solving complex problems, building scalable systems, and constantly seeking opportunities to learn new technologies.
 
-- 🎓 **Education:** Bachelor of Computer Science - UTH (2021-2025)
+- 🎓 **Education:** Bachelor of Computer Science - UTH (2023-2027)
 - 🔭 **Currently:** Looking for Backend Developer Internship opportunities
 - 🌱 **Learning:** Microservices Architecture, Docker, Kubernetes
 - 💡 **Interests:** Complex logic coding, database optimization, building RESTful APIs
